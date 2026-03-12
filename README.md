@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Milena Souza
 
-<!--
-**Milenasouza09/Milenasouza09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recém-formada e atualmente estudando Análise de Dados.
 
-Here are some ideas to get you started:
+💻 Tecnologias e ferramentas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- SQL
+- Lógica de Programação
+
+📚 Atualmente estudando
+- Especialização em Análise de Dados (Alura)
+
+📊 Objetivo
+Atuar na área de tecnologia como Analista de Dados, utilizando Python, SQL e ferramentas de análise para extrair insights e apoiar decisões estratégicas.
+
+📫 Contato
+LinkedIn: (https://www.linkedin.com/in/milena-souza-bb5402351/)
