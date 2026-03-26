@@ -25,18 +25,7 @@ Busco minha primeira oportunidade como **Analista de Dados**, aplicando conhecim
 
 ## 🛠️ Tecnologias e Ferramentas  
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgresql" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
-    <img src="https://skillicons.dev/icons?i=excel" height="40"/>
-  </a>
-</p>
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ---
 
 ## 📚 Em aprendizado contínuo  
