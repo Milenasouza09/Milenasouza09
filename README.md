@@ -25,7 +25,10 @@ Busco minha primeira oportunidade como **Analista de Dados**, aplicando conhecim
 
 ## 🛠️ Tecnologias e Ferramentas  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ---
 
 ## 📚 Em aprendizado contínuo  
@@ -34,6 +37,9 @@ Busco minha primeira oportunidade como **Analista de Dados**, aplicando conhecim
 🐍 **Pandas** — análise e manipulação de dados com Python  
 🗄️ **SQL avançado** — consultas, joins e otimização  
 🔗 **APIs** — consumo e integração de dados  
+
+🌐 Interesse em desenvolvimento **Front-end**  
+🔐 Interesse em **Redes, Segurança da Informação e Cibersegurança**  
 
 🤖 Futuro foco em especialização em **Inteligência Artificial (IA)**  
 
