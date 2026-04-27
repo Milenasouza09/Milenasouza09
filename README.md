@@ -41,21 +41,6 @@ Busco minha primeira oportunidade como **Analista de Dados**, aplicando conhecim
 🌐 Interesse em desenvolvimento **Front-end**  
 🔐 Interesse em **Redes, Segurança da Informação e Cibersegurança**  
 
-🤖 Futuro foco em especialização em **Inteligência Artificial (IA)**  
-
----
-
-## 📁 Projetos  
-
-🚧 Em construção...  
-
-📌 Em breve você encontrará aqui projetos como:  
-- 📊 Análise de dados com Python  
-- 📈 Dashboards interativos no Power BI  
-- 🗄️ Consultas SQL aplicadas a cenários reais  
-
----
-
 ## 📫 Contato  
 
 <p align="left">
