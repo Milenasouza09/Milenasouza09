@@ -1,15 +1,16 @@
 # 👩‍💻 Olá! Eu sou a Milena Souza  
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas (UMC)**  
-📊 Em especialização em **Análise de Dados**  
-💡 Focada em transformar dados em **insights estratégicos** para tomada de decisão  
+☕ Em especialização em **Desenvolvimento Back-end com Java**  
+💡 Focada em desenvolvimento de aplicações web e soluções back-end  
 
 ---
 
 ## 🚀 Sobre mim  
 
-Sou apaixonada por tecnologia e dados, atualmente em transição para a área de **Análise de Dados**.  
-Busco minha primeira oportunidade como **Analista de Dados**, aplicando conhecimentos em **Python, SQL e Excel**, enquanto continuo evoluindo constantemente na área.
+Sou apaixonada por tecnologia e desenvolvimento back-end, atualmente aprofundando meus conhecimentos em **Java**, aplicações web e banco de dados.
+
+Busco minha primeira oportunidade na área de desenvolvimento, aplicando conceitos de programação, lógica e desenvolvimento de sistemas enquanto continuo evoluindo constantemente como desenvolvedora.
 
 ---
 
@@ -25,21 +26,31 @@ Busco minha primeira oportunidade como **Analista de Dados**, aplicando conhecim
 
 ## 🛠️ Tecnologias e Ferramentas  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📚 Em aprendizado contínuo  
 
-📊 **Power BI** — criação de dashboards e visualização de dados  
-🐍 **Pandas** — análise e manipulação de dados com Python  
-🗄️ **SQL avançado** — consultas, joins e otimização  
-🔗 **APIs** — consumo e integração de dados  
+☕ **Java Back-end** — desenvolvimento de aplicações web e lógica de sistemas  
+🗄️ **Banco de Dados** — modelagem e consultas SQL  
+🌐 **Desenvolvimento Web** — integração entre front-end e back-end  
+🔗 **APIs** — integração e comunicação entre sistemas  
 
-🌐 Interesse em desenvolvimento **Front-end**  
-🔐 Interesse em **Redes, Segurança da Informação e Cibersegurança**  
+💡 Interesse em arquitetura de software, back-end e desenvolvimento de sistemas escaláveis.
+
+---
+
+## 📂 Projetos em destaque  
+
+☕ CRUD Web em Java  
+🐾 Sistema de adoção de pets com arquitetura MVC  
+🍦 Sistema web para gerenciamento de pedidos  
+🗄️ Projetos de banco de dados MySQL  
+
+---
 
 ## 📫 Contato  
 
@@ -48,7 +59,3 @@ Busco minha primeira oportunidade como **Analista de Dados**, aplicando conhecim
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-✨ *“Transformando dados em decisões inteligentes.”*
