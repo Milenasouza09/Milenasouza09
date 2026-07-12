@@ -1,30 +1,34 @@
-# 👩‍💻 Olá! Eu sou a Milena Souza  
+# 👩‍💻 Olá! Eu sou a Milena Souza
 
-🎓 Formada em **Análise e Desenvolvimento de Sistemas (UMC)**  
-☕ Em especialização em **Desenvolvimento Back-end com Java**  
-💡 Focada em desenvolvimento de aplicações web e soluções back-end  
-
----
-
-## 🚀 Sobre mim  
-
-Sou apaixonada por tecnologia e desenvolvimento back-end, atualmente aprofundando meus conhecimentos em **Java**, aplicações web e banco de dados.
-
-Busco minha primeira oportunidade na área de desenvolvimento, aplicando conceitos de programação, lógica e desenvolvimento de sistemas enquanto continuo evoluindo constantemente como desenvolvedora.
+🎓 Formada em **Análise e Desenvolvimento de Sistemas (UMC)**
+☕ Em especialização em **Desenvolvimento Back-end com Java**
+🚀 Em busca da minha **primeira oportunidade na área de tecnologia**
 
 ---
 
-## 🎓 Formação  
+## 🚀 Sobre mim
 
-🎓 **Análise e Desenvolvimento de Sistemas**  
-📍 Universidade de Mogi das Cruzes (UMC)  
+Sou apaixonada por tecnologia e estou em busca da minha primeira oportunidade profissional na área de desenvolvimento.
 
-💻 **Programador de Computador Avançado**  
-📍 Microlins  
+Gosto de aprender continuamente e estou sempre buscando novos desafios para evoluir como desenvolvedora. Tenho grande interesse por **Java** e venho aprofundando meus conhecimentos em **desenvolvimento Back-end**, criando projetos para praticar programação, lógica, banco de dados e desenvolvimento de aplicações.
+
+Além do desenvolvimento, também estudo **Redes de Computadores**, uma área que desperta muito meu interesse e me permite compreender melhor a comunicação entre sistemas e a infraestrutura que sustenta as aplicações.
+
+Acredito que a dedicação, a curiosidade e o aprendizado contínuo são fundamentais para crescer na área de tecnologia.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## 🎓 Formação
+
+🎓 **Análise e Desenvolvimento de Sistemas**
+📍 Universidade de Mogi das Cruzes (UMC)
+
+💻 **Programador de Computador Avançado**
+📍 Microlins
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,27 +36,37 @@ Busco minha primeira oportunidade na área de desenvolvimento, aplicando conceit
 
 ---
 
-## 📚 Em aprendizado contínuo  
+## 📚 Em aprendizado contínuo
 
-☕ **Java Back-end** — desenvolvimento de aplicações web e lógica de sistemas  
-🗄️ **Banco de Dados** — modelagem e consultas SQL  
-🌐 **Desenvolvimento Web** — integração entre front-end e back-end  
-🔗 **APIs** — integração e comunicação entre sistemas  
+☕ **Java Back-end** — desenvolvimento de aplicações web
 
-💡 Interesse em arquitetura de software, back-end e desenvolvimento de sistemas escaláveis.
+🗄️ **Banco de Dados** — modelagem e consultas SQL
 
----
+🌐 **Desenvolvimento Web** — integração entre front-end e back-end
 
-## 📂 Projetos em destaque  
+🔗 **APIs** — comunicação entre aplicações
 
-☕ CRUD Web em Java  
-🐾 Sistema de adoção de pets com arquitetura MVC  
-🍦 Sistema web para gerenciamento de pedidos  
-🗄️ Projetos de banco de dados MySQL  
+🌐 **Redes de Computadores** — estudos com Cisco Packet Tracer e fundamentos de redes
 
 ---
 
-## 📫 Contato  
+## 📂 Projetos em destaque
+
+☕ CRUD Web em Java
+
+💳 Simulador de Conta Bancária em Java
+
+🐾 Sistema de adoção de pets (MVC)
+
+🍦 Sistema Web para gerenciamento de pedidos
+
+🗄️ Projetos de Banco de Dados MySQL
+
+🌐 Laboratórios de Redes com Cisco Packet Tracer
+
+---
+
+## 📫 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/milena-souza-bb5402351/" target="_blank">
